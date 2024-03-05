@@ -36,3 +36,7 @@ data/data.json
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# amplify
+.amplify
+amplifyconfiguration*
